@@ -1,7 +1,8 @@
 # code-quiz-challenge-
 
 # Deployed Link
-https://nolandc5.github.io/final-coding-quiz/
+https://nolandc5.github.io/code-quiz-challenge-/
+
  
 # Description
 Simple site that allows users to take a coding quiz then allows them to record their score
